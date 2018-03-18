@@ -1,2 +1,1 @@
-var meals = {};
-var meals = new Object();
+var playlist = {songTitle: "artist"}
